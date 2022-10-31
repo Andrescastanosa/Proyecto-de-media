@@ -1,0 +1,65 @@
+ body{background-image: url("Fondo.JPG");
+font-family:Arial, Helvetica, sans-serif;
+}
+
+#container{
+width: 70%;
+margin: 0px auto;
+border: 5px solid black;
+}
+.article{}
+
+header{
+height: 250px;
+width: px;
+margin: 0px;
+text-align: center;
+line-height: 100px;
+color: black;
+}
+
+nav{
+background: white ;
+height: 50px;
+border: 3px solid black;
+}
+
+
+nav ul li{
+float: left;
+list-style: none;
+margin: 10px;
+line-height: 30px;
+}
+
+.clearfix
+{
+clear: both;
+}
+
+
+#content{
+float: left;
+width: 80%
+min-height: 500px;
+background: white;
+border: 3px solid black;
+
+}
+aside{
+float: left;
+width: 20%;
+background: lightcoral;
+min-height: 500px
+
+footer{
+
+background: green;
+color: white;
+text-.align: center;
+height: 60px;
+}
+
+
+
+      
